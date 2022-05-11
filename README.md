@@ -1,2 +1,3 @@
 # TIL
-today i learnd
+---
+* today i learnd
